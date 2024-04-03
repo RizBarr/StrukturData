@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712155233 source:c:\ngampus\uts s2\uts lgi\main.cpp
+	<iostream>
+	<string>
+
